@@ -109,8 +109,8 @@ Beberapa fitur yang terdapat dalam program :
      - Tambah Data Perkotaan : Super admin dapat menambahkan perkotaan baru dengan memasukan nama kota, provinsi, jumlah penduduk, luas wilayah, indeks 
        keberlanjutan dan id admin
      - Hapus Data Perkotaan : Super Admin dapat menghapus perkotaan dengan memasukan id dari perkotaan yang ingin dihapus 
-     - Perbaharui Data Perkotaan : Super Admin dapat memperbaharui data perkotaan dengan memilih perkotaan berdasarkan id kemudian memasukan id perkotaan baru, 
-       nama kota baru, provinsi baru, jumlah penduduk baru, luas wilayah baru, indeks keberlanjutan baru dan id admin baru
+     - Perbaharui Data Perkotaan : Super Admin dapat memperbaharui data perkotaan dengan memilih perkotaan berdasarkan id kemudian memasukan nama kota baru, 
+       provinsi baru, jumlah penduduk baru, luas wilayah baru, indeks keberlanjutan baru dan id admin baru
      - Tampilkan Data Perkotaan : Super admin dapat memlihat database perkotaan dan memilih beberapa menu seperti :
        - Tampilkan Data (urutkan berdasarkan ID - A-Z) : Super admin dapat melihat tampilan data Perkotaan berdasarkan id yang diurutkan secara terurut atau 
          ascending 
@@ -125,9 +125,8 @@ Beberapa fitur yang terdapat dalam program :
        akses sanitasi layak, id admin 
        keberlanjutan dan id admin
      - Hapus Data Pemukiman : Super Admin dapat menghapus Pemukiman dengan memasukan id dari Pemukiman yang ingin dihapus 
-     - Perbaharui Data Pemukiman : Super Admin dapat memperbaharui data Pemukiman dengan memilih Pemukiman berdasarkan id kemudian memasukan id pemukiman baru, 
-       nama pemukiman baru, id perkotaan baru, Jenis pemukiman baru, akses air bersih baru, akses sanitasi layak baru, id admin baru
-       akses sanitasi layak, id admin 
+     - Perbaharui Data Pemukiman : Super Admin dapat memperbaharui data Pemukiman dengan memilih Pemukiman berdasarkan id kemudian memasukan nama pemukiman baru, 
+       id perkotaan baru, Jenis pemukiman baru, akses air bersih baru, akses sanitasi layak baru, id admin baru
        perkotaan baru, Jenis pemukiman baru, akses air bersih baru, akses sanitasi layak baru, id admin baru
      - Tampilkan Data Pemukiman : Super admin dapat memlihat database Pemukiman dan memilih beberapa menu seperti :
        - Tampilkan Data (urutkan berdasarkan ID - A-Z) : Super admin dapat melihat tampilan data Pemukiman berdasarkan id yang diurutkan secara terurut atau 
@@ -142,8 +141,8 @@ Beberapa fitur yang terdapat dalam program :
      - Tambah Data Proyek : Super admin dapat menambahkan Pemukiman baru dengan memasukan nama proyek, id pemukiman, deskripsi proyek, jenis proyek, 
        dana proyek, status proyek, id admin 
      - Hapus Data Proyek : Super Admin dapat menghapus Pemukiman dengan memasukan id dari Pemukiman yang ingin dihapus 
-     - Perbaharui Data Proyek : Super Admin dapat memperbaharui data Pemukiman dengan memilih Pemukiman berdasarkan id kemudian memasukan id proyek baru, nama 
-       proyek baru, id pemukiman baru, deskripsi proyek baru, jenis proyek baru, dana proyek baru, status proyek baru, id admin baru
+     - Perbaharui Data Proyek : Super Admin dapat memperbaharui data Pemukiman dengan memilih Pemukiman berdasarkan id kemudian memasukan nama proyek baru, id 
+       pemukiman baru, deskripsi proyek baru, jenis proyek baru, dana proyek baru, status proyek baru, id admin baru
      - Tampilkan Data Proyek : Super admin dapat memlihat database Pemukiman dan memilih beberapa menu seperti :
        - Tampilkan Data (urutkan berdasarkan ID - A-Z) : Super admin dapat melihat tampilan data Proyek berdasarkan id yang diurutkan secara terurut atau 
          ascending 
@@ -157,8 +156,8 @@ Beberapa fitur yang terdapat dalam program :
     - Tambah Data Perkotaan : Admin Perkotaan dapat menambahkan perkotaan baru dengan memasukan nama kota, provinsi, jumlah penduduk, luas wilayah, indeks 
       keberlanjutan dan id admin
     - Hapus Data Perkotaan : Admin Perkotaan dapat menghapus perkotaan dengan memasukan id dari perkotaan yang ingin dihapus 
-    - Perbaharui Data Perkotaan : Admin Perkotaan dapat memperbaharui data perkotaan dengan memilih perkotaan berdasarkan id kemudian memasukan id perkotaan 
-      baru, nama kota baru, provinsi baru, jumlah penduduk baru, luas wilayah baru, indeks keberlanjutan baru dan id admin baru
+    - Perbaharui Data Perkotaan : Admin Perkotaan dapat memperbaharui data perkotaan dengan memilih perkotaan berdasarkan id kemudian memasukan nama kota baru, 
+      provinsi baru, jumlah penduduk baru, luas wilayah baru, indeks keberlanjutan baru dan id admin baru
     - Tampilkan Data Perkotaan : Admin Perkotaan dapat memlihat database perkotaan dan memilih beberapa menu seperti :
       - Tampilkan Data (urutkan berdasarkan ID - A-Z) : Admin Perkotaan dapat melihat tampilan data Perkotaan berdasarkan id yang diurutkan secara terurut atau 
          ascending 
@@ -166,36 +165,37 @@ Beberapa fitur yang terdapat dalam program :
          ascending
       - Cari Data (berdasarkan ID) : Admin Perkotaan dapat mencari data Perkotaan dengan memasukan id Pemukiman
       - Kembali ke Menu Utama : Admin Perkotaan dapat kembali ke menu utama
-    - Keluar : Admin Perkotaan dapar kembali ke menu sebelumnya
+    - Keluar : Admin Perkotaan akan kembali ke menu sebelumnya
 
 5. Admin Pemukiman : Admin Pemukiman hanya dapat mengelola database Proyek, memilih beberapa menu dan melakukan crud untuk
     - Tambah Data Proyek : Admin Pemukiman dapat menambahkan Pemukiman baru dengan memasukan nama proyek, id pemukiman, deskripsi proyek, jenis proyek, 
       dana proyek, status proyek, id admin 
     - Hapus Data Proyek : Admin Pemukiman dapat menghapus Pemukiman dengan memasukan id dari Pemukiman yang ingin dihapus 
-    - Perbaharui Data Proyek : Admin Pemukiman dapat memperbaharui data Pemukiman dengan memilih Pemukiman berdasarkan id kemudian memasukan id proyek baru, nama 
-      proyek baru, id pemukiman baru, deskripsi proyek baru, jenis proyek baru, dana proyek baru, status proyek baru, id admin baru
+    - Perbaharui Data Proyek : Admin Pemukiman dapat memperbaharui data Pemukiman dengan memilih Pemukiman berdasarkan id kemudian memasukan nama proyek baru, id 
+      pemukiman baru, deskripsi proyek baru, jenis proyek baru, dana proyek baru, status proyek baru, id admin baru
     - Tampilkan Data Proyek : Admin Pemukiman dapat memlihat database Pemukiman dan memilih beberapa menu seperti :
       - Tampilkan Data (urutkan berdasarkan ID - A-Z) : Admin Pemukiman dapat melihat tampilan data Proyek berdasarkan id yang diurutkan secara terurut atau 
         ascending 
       - Tampilkan Data (urutkan berdasarkan ID - Z-A) : Admin Pemukiman dapat melihat tampilan data Proyek berdasarkan id yang diurutkan secara terbalik atau 
         ascending
       - Cari Data (berdasarkan ID) : Admin Pemukiman dapat mencari data Proyek dengan memasukan id Proyek
-      - Kembali ke Menu Utama : Admin Pemukiman dapat kembali ke menu utama
-    - Keluar : Admin Pemukiman dapat kembali ke menu sebelumnya
+      - Keluar : Admin Pemukiman akan kembali ke menu sebelumnya
+    - Keluar : Admin Pemukiman dapat kembali ke menu login
 
-7. Admin Proyek : Admin Proyek dapat mengelola database Proyek, memilih beberapa menu dan melakukan crud untuk
+6. Admin Proyek : Admin Proyek dapat mengelola database Proyek, memilih beberapa menu dan melakukan crud untuk
     - Tambah Data Proyek :Admin Proyek dapat menambahkan Pemukiman baru dengan memasukan nama proyek, id pemukiman, deskripsi proyek, jenis proyek, 
       dana proyek, status proyek, id admin 
     - Hapus Data Proyek : Admin Proyek dapat menghapus Pemukiman dengan memasukan id dari Pemukiman yang ingin dihapus 
-    - Perbaharui Data Proyek : Admin Proyek dapat memperbaharui data Pemukiman dengan memilih Pemukiman berdasarkan id kemudian memasukan id proyek baru, nama 
-      proyek baru, id pemukiman baru, deskripsi proyek baru, jenis proyek baru, dana proyek baru, status proyek baru, id admin baru
+    - Perbaharui Data Proyek : Admin Proyek dapat memperbaharui data Pemukiman dengan memilih Pemukiman berdasarkan id kemudian memasukan nama proyek baru, id 
+      pemukiman baru, deskripsi proyek baru, jenis proyek baru, dana proyek baru, status proyek baru, id admin baru
     - Tampilkan Data Proyek : Admin Proyek dapat memlihat database Pemukiman dan memilih beberapa menu seperti :
       - Tampilkan Data (urutkan berdasarkan ID - A-Z) : Admin Proyek dapat melihat tampilan data Proyek berdasarkan id yang diurutkan secara terurut atau 
         ascending 
       - Tampilkan Data (urutkan berdasarkan ID - Z-A) :  Admin Proyek dapat melihat tampilan data Proyek berdasarkan id yang diurutkan secara terbalik atau 
         ascending
       - Cari Data (berdasarkan ID) : Admin Proyek dapat mencari data Proyek dengan memasukan id Proyek
-      - Kembali ke Menu Utama : Admin Proyek dapat kembali ke menu utama
-    - Keluar : Admin Proyek dapat kembali ke menu sebelumnya
+      - Keluar : Admin Proyek akan kembali ke menu sebelumnya
+    - Keluar : Admin Proyek dapat kembali ke menu login
+  
   
 ## fungsional
