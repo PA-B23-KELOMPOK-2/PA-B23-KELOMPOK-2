@@ -74,12 +74,16 @@ Beberapa library yang digunakan seperti :
 
 Beberapa fitur yang terdapat dalam program :
 
-1. login
+1. login user
    - login = User yang telah memiliki akun dapat melakukan login dengan memasukan userame dan password
    - Membuat Akun Baru = User yang belum memiliki akun dapat membuat akun dengan membuat username dan password
    - Keluar = Ketika user memilih menu keluar maka program akan terhenti
 
-2. user
+2. Login Admin
+   - Login = Admin melakukan login dengan memasukan username dan password yang ada
+   - Keluar = Ketika admin memilih keluar maka program akan terhenti
+ 
+3. user
    - Database Perkotaan : User dapat memlihat database perkotaan dan memilih beberapa menu seperti :
      - Tampilkan Data (urutkan berdasarkan ID - A-Z) : User dapat melihat tampilan data Perkotaan berdasarkan id yang diurutkan secara terurut atau ascending 
      - Tampilkan Data (urutkan berdasarkan ID - Z-A) : User dapat melihat tampilan data Perkotaan berdasarkan id yang diurutkan secara terbalik atau ascending
@@ -98,7 +102,7 @@ Beberapa fitur yang terdapat dalam program :
      - Cari Data (berdasarkan ID) : User dapat mencari data Proyek dengan memasukan id Proyek 
      - Kembali ke Menu Utama : User dapat kembali ke menu utama
 
-3. Super Admin
+4. Super Admin
    - Database Admin : Super admin dapat mengelola database Admin, memmilih beberapa menu dan melakukan crud untuk
      - Tambah Data Admin : Super admin dapat menambahkan admin baru dengan memasukan nama admin, email admin, password admin dan role admin 
      - Hapus Data Admin : Super Admin dapat menghapus admin dengan memasukan id dari admin yang ingin dihapus
@@ -154,7 +158,7 @@ Beberapa fitur yang terdapat dalam program :
        - Kembali ke Menu Utama : Super admin dapat kembali ke menu utama
      - Keluar : Super admin dapat kembali ke menu sebelumnya
     
-4. Admin Perkotaan : Admin Perkotaan hanya dapat mengelola database perkotaan, memilih beberapa menu dan melakukan crud untuk
+6. Admin Perkotaan : Admin Perkotaan hanya dapat mengelola database perkotaan, memilih beberapa menu dan melakukan crud untuk
     - Tambah Data Perkotaan : Admin Perkotaan dapat menambahkan perkotaan baru dengan memasukan nama kota, provinsi, jumlah penduduk, luas wilayah, indeks 
       keberlanjutan dan id admin
     - Hapus Data Perkotaan : Admin Perkotaan dapat menghapus perkotaan dengan memasukan id dari perkotaan yang ingin dihapus 
@@ -184,7 +188,7 @@ Beberapa fitur yang terdapat dalam program :
       - Keluar : Admin Pemukiman akan kembali ke menu sebelumnya
     - Keluar : Admin Pemukiman dapat kembali ke menu login
 
-6. Admin Proyek : Admin Proyek dapat mengelola database Proyek, memilih beberapa menu dan melakukan crud untuk
+7. Admin Proyek : Admin Proyek dapat mengelola database Proyek, memilih beberapa menu dan melakukan crud untuk
     - Tambah Data Proyek :Admin Proyek dapat menambahkan Pemukiman baru dengan memasukan nama proyek, id pemukiman, deskripsi proyek, jenis proyek, 
       dana proyek, status proyek, id admin 
     - Hapus Data Proyek : Admin Proyek dapat menghapus Pemukiman dengan memasukan id dari Pemukiman yang ingin dihapus 
