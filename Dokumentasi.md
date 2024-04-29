@@ -205,3 +205,16 @@ Beberapa fitur yang terdapat dalam program :
   
   
 ## fungsional
+
+1. Registrasi dan Login Pengguna:
+      - Pengguna dapat mendaftar untuk mengakses sistem.
+      - Pengguna yang telah terdaftar dapat masuk ke dalam sistem.
+  
+  2. Akses Data Perkotaan dan Pemukiman:
+      - Pengguna dapat melihat data perkotaan dan pemukiman yang tersedia.
+      - Pengguna dapat mencari data berdasarkan kriteria tertentu.
+      - Pengguna dapat mengakses data detail dari perkotaan dan pemukiman.
+  
+  3. Monitoring dan Evaluasi:
+      - Pengguna dapat memantau kemajuan pembangunan perkotaan dan pemukiman.
+    
