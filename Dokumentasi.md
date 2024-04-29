@@ -163,7 +163,7 @@ Super Admin
        - Kembali ke Menu Utama : Super admin dapat kembali ke menu utama
      - Keluar : Super admin dapat kembali ke menu sebelumnya
 
-Admin Perkotaan : Admin Perkotaan hanya dapat mengelola database perkotaan, memilih beberapa menu dan melakukan crud untuk
+1. Admin Perkotaan : Admin Perkotaan hanya dapat mengelola database perkotaan, memilih beberapa menu dan melakukan crud untuk
     - Tambah Data Perkotaan : Admin Perkotaan dapat menambahkan perkotaan baru dengan memasukan nama kota, provinsi, jumlah penduduk, luas wilayah, indeks 
       keberlanjutan dan id admin
     - Hapus Data Perkotaan : Admin Perkotaan dapat menghapus perkotaan dengan memasukan id dari perkotaan yang ingin dihapus 
@@ -178,7 +178,7 @@ Admin Perkotaan : Admin Perkotaan hanya dapat mengelola database perkotaan, memi
       - Kembali ke Menu Utama : Admin Perkotaan dapat kembali ke menu utama
     - Keluar : Admin Perkotaan akan kembali ke menu sebelumnya
 
-Admin Pemukiman : Admin Pemukiman hanya dapat mengelola database Proyek, memilih beberapa menu dan melakukan crud untuk
+2. Admin Pemukiman : Admin Pemukiman hanya dapat mengelola database Proyek, memilih beberapa menu dan melakukan crud untuk
     - Tambah Data Proyek : Admin Pemukiman dapat menambahkan Pemukiman baru dengan memasukan nama proyek, id pemukiman, deskripsi proyek, jenis proyek, 
       dana proyek, status proyek, id admin 
     - Hapus Data Proyek : Admin Pemukiman dapat menghapus Pemukiman dengan memasukan id dari Pemukiman yang ingin dihapus 
@@ -193,7 +193,7 @@ Admin Pemukiman : Admin Pemukiman hanya dapat mengelola database Proyek, memilih
       - Keluar : Admin Pemukiman akan kembali ke menu sebelumnya
     - Keluar : Admin Pemukiman dapat kembali ke menu login
 
-Admin Proyek : Admin Proyek dapat mengelola database Proyek, memilih beberapa menu dan melakukan crud untuk
+3. Admin Proyek : Admin Proyek dapat mengelola database Proyek, memilih beberapa menu dan melakukan crud untuk
     - Tambah Data Proyek :Admin Proyek dapat menambahkan Pemukiman baru dengan memasukan nama proyek, id pemukiman, deskripsi proyek, jenis proyek, 
       dana proyek, status proyek, id admin 
     - Hapus Data Proyek : Admin Proyek dapat menghapus Pemukiman dengan memasukan id dari Pemukiman yang ingin dihapus 
