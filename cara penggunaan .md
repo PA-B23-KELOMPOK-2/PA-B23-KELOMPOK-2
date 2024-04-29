@@ -1,4 +1,6 @@
-USER
+## CARA PENGGUNAAN PROGRAM 
+
+### USER
 
 Login user : User dapat membuat akun terlebih dahulu dengan memilih menu 2 dengan membuat username dan password kemudian melakukan login dengan akun yang telah dibuat dengan memilih menu 1. Jika user memilih keluar dengan menu 3 maka program akan terhenti 
 
@@ -72,7 +74,7 @@ Jika user memilih 4. Keluar maka user akan kembali ke menu utama
 
 ![image](https://github.com/MuhammadLuqmanSi/PA-B23-KELOMPOK-2/assets/144880422/ceb38cc4-c2aa-4b01-a813-eef5d93773e2)
 
-SUPER ADMIN
+### SUPER ADMIN
 
 Super admin melakukan login dengan memilih menu 1. login dan memasukan username dan password yang telah ada dan akan masuk ke menu admin, Jika Super Admin memilih keluar dengan menu 3 maka program akan terhenti  
 
@@ -252,7 +254,7 @@ Super Admin dapat kembali ke menu login dengan memilih menu 5. keluar
 
 ![image](https://github.com/MuhammadLuqmanSi/PA-B23-KELOMPOK-2/assets/144880422/ef97084a-4a38-48dc-9f14-b27941a2c420)
 
-ADMIN PERKOTAAN  
+### ADMIN PERKOTAAN  
 
 Admin Perkotaan melakukan login dengan memilih menu 1. login dan memasukan username dan password yang telah ada dan akan masuk ke menu admin, Jika Admin Proyek memilih keluar dengan menu 3 maka program akan terhenti 
 
@@ -304,7 +306,7 @@ Dengan memilih menu 5. Keluar, Admin Perkotaan dapat kembali ke menu login
 
 ![image](https://github.com/MuhammadLuqmanSi/PA-B23-KELOMPOK-2/assets/144880422/013e300e-2c52-4959-8c7e-0de19bcbe986)
 
-ADMIN PEMUKIMAN 
+### ADMIN PEMUKIMAN 
 
 Admin Pemukiman melakukan login dengan memilih menu 1. login dan memasukan username dan password yang telah ada dan akan masuk ke menu admin, Jika Admin Proyek memilih keluar dengan menu 3 maka program akan terhenti 
 
@@ -356,7 +358,7 @@ Dengan memilih menu 5. Keluar, Admin Pemukiman dapat kembali ke menu login
 
 ![image](https://github.com/MuhammadLuqmanSi/PA-B23-KELOMPOK-2/assets/144880422/07e0a554-552e-4078-bcd8-8e2a75622a12)
 
-ADMIN PROYEK 
+### ADMIN PROYEK 
 
 Admin Proyek melakukan login dengan memilih menu 1. login dan memasukan username dan password yang telah ada dan akan masuk ke menu admin, Jika Admin Proyek memilih keluar dengan menu 3 maka program akan terhenti 
 
