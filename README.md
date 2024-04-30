@@ -9,3 +9,6 @@
 [![forthebadge made-with-python](http://ForTheBadge.com/images/badges/made-with-python.svg)](https://www.python.org/)
 
 [![Visual Studio](https://badgen.net/badge/icon/visualstudio?icon=visualstudio&label)](https://visualstudio.microsoft.com)
+
+## FLOWCHART
+![Untitled Diagram drawio (19)](https://github.com/PA-B23-KELOMPOK-2/Kode-Visual-PA-B23-KELOMPOK-2/assets/144345295/f084563d-3539-41e1-a4dc-27061d99eed1)
