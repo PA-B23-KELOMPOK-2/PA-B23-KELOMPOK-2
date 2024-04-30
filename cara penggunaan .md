@@ -1,9 +1,9 @@
 ## CARA PENGGUNAAN PROGRAM 
 - [User](#user)
 - [Super admin](#super-admin)
-- [Admin Perkotaan].(#admin-perkotaan)
-- [Admin Pemukiman].(#admin-pemukiman)
-- [Admin Proyek].(#admin-proyek)
+- [Admin Perkotaan](#admin-perkotaan)
+- [Admin Pemukiman](#admin-pemukiman)
+- [Admin Proyek](#admin-proyek)
 ### USER
 
 Login user : User dapat membuat akun terlebih dahulu dengan memilih menu 2 dengan membuat username dan password kemudian melakukan login dengan akun yang telah dibuat dengan memilih menu 1. Jika user memilih keluar dengan menu 3 maka program akan terhenti 
